@@ -5,6 +5,13 @@ recognition testing and training.
 Running it should be as simple as issuing these commands on your
 server:
 
+### Packages for Ubuntu
+ 
+ ```
+ sudo apt-get install libssl1.0-dev  nodejs-dev node-gyp npm
+```
+
+### Installation
 ```
 > git clone git@github.com:mozilla/murmur.git
 > cd murmur
