@@ -62,7 +62,7 @@ function startServer() {
     process.exit(1);
   }
 
-  var db = new sqlite3.Database(config.db);
+  let db = new sqlite3.Database(config.db);
 
   var lex = LEX.create({
     configDir: __dirname + '/letsencrypt.conf',
