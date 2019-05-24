@@ -26,4 +26,4 @@ server:
 For cloud services like AWS, you may also need to take steps to open
 ports 80 and 443 on your server before this code will work
 
-![Alt text](screenshot-voicebank-mozilla.png?raw=true "Screenshot")
+![Alt text](screenshot-voicebank-mozilla2.png?raw=true "Screenshot")
