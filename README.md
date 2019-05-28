@@ -13,7 +13,7 @@ server:
 
 ### Installation
 ```
-> git clone git@github.com:mozilla/murmur.git
+> https://github.com/alokprasad/murmur.git
 > cd murmur
 > npm install
 > emacs server.conf      # define hostname and email address for letsencrypt
